@@ -1,6 +1,6 @@
 ﻿---
 SayfaID: Ana sayfa
-SayfaTipi: Ana sayfa
+SayfaTipi: Ana sayfa  
 ---
 
 # Ana Sayfa 
