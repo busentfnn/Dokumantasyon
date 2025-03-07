@@ -5,6 +5,8 @@ SayfaTipi: Modul
 
 # Demirbaş Modülü
 
+[![Image](https://i.hizliresim.com/lj87cy9.png)](https://hizliresim.com/lj87cy9)
+
 **Erişim Linki :** [erp.aaro.com.tr/DemirbasModulu](erp.aaro.com.tr/DemirbasModulu)
 
 Bir işletmenin sahip olduğu sabit kıymetlerin (demirbaşların) kayıt altına alındığı ve izlendiği bir muhasebe sürecidir. 

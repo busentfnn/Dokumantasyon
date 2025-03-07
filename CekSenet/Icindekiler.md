@@ -5,6 +5,10 @@ SayfaTipi: Modul
 
 # Çek/Senet Modülü
 
+[![Image](https://i.hizliresim.com/e0a0guf.png)](https://hizliresim.com/e0a0guf)
+
+
+
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetModulu](erp.aaro.com.tr/CekSenetModulu)
 
 ### Tanım 
