@@ -7,6 +7,8 @@ SayfaTipi: Modul
 
 **Erişim Linki :** [erp.aaro.com.tr/Kullanicilar/BayiKalem](erp.aaro.com.tr/Kullanicilar/BayiKalem)
 
+[![Image](https://i.hizliresim.com/4avj60b.png)](https://hizliresim.com/4avj60b)
+
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "bayi" aratarak ulaşım sağlayabilirsiniz.

@@ -7,6 +7,8 @@ SayfaTipi: HareketListe
 
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetHareketleri/Liste](erp.aaro.com.tr/CekSenetHareketleri/Liste)
 
+[![Image](https://i.hizliresim.com/mj31uzi.png)](https://hizliresim.com/mj31uzi)
+
 ### Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Çek/Senet hareket listesi" şeklinde aratarak ulaşım sağlayabilirsiniz.

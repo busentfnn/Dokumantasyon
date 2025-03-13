@@ -7,6 +7,8 @@ SayfaTipi: KartListe
 
 **Erişim Linki :** [erp.aaro.com.tr/CekSenet/Liste](erp.aaro.com.tr/CekSenet/Liste)
 
+[![Image](https://i.hizliresim.com/cdi7gyv.png)](https://hizliresim.com/cdi7gyv)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Çek senet" şeklinde aratarak ulaşım sağlayabilirsiniz.

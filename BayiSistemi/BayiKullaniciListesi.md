@@ -7,6 +7,8 @@ SayfaTipi: BayiListe
 
 **Erişim Linki :** [erp.aaro.com.tr/Kullanicilar/BayiListe](erp.aaro.com.tr/Kullanicilar/BayiListe)
 
+[![Image](https://i.hizliresim.com/i79359e.png)](https://hizliresim.com/i79359e)
+
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "bayi" aratarak ulaşım sağlayabilirsiniz.
