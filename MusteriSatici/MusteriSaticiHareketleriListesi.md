@@ -16,6 +16,7 @@ Aşağıdaki şekillerde ulaşım sağlayabilirsiniz:
 
 ### Tanım 
 
+
 - Müşteri/Satıcı kartlarının hareketlerini bu sayfadan görüntüleyebilirsiniz. [Müşteri/Satıcı Kartı](../MusteriSatici/MusteriSaticiKarti.md)
 - Müşteri/Satıcı kartlarının güncel ve belirli bir tarihteki bakiyelerini görüntüleyebilirsiniz.
 
