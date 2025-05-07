@@ -1,6 +1,7 @@
 
 # Açıklama
 
+
 İşleme ait açıklama kısmı, belirli bir işlem veya kayda dair önemli bilgilerin yer aldığı bir alan veya metin kutusudur. 
 
 Bu alanda, işlemin detaylarını, niteliğini ve anlamını açıklayan ek bilgiler yer alır.    Kullanıcılar, bu bölümdeki metinler sayesinde işlemi daha iyi anlayabilir, izleyebilir ve yönetebilir.
