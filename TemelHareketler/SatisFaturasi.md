@@ -7,6 +7,8 @@ SayfaTipi: Fatura
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaSatisFaturasi](https://erp.aaro.com.tr/FaturaSatisFaturasi)
 
+[![Image](../TemelHareketler/satis-faturasi.png)](TemelHareketler)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "satış faturası" şeklinde aratarak ulaşım sağlayabilirsiniz.

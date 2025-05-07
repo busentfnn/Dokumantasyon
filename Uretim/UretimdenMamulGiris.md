@@ -7,6 +7,8 @@ SayfaTipi:
 
 **Erişim Linki :** [erp.aaro.com.tr/UretimdenMamulGirisi](erp.aaro.com.tr/UretimdenMamulGirisi)
 
+[![Image](../Uretim/uretimmamul.png)](Uretim)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "mamul giriş" şeklinde aratarak ulaşım sağlayabilirsiniz.

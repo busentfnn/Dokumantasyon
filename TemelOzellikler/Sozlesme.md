@@ -7,6 +7,8 @@ SayfaTipi: Lıste
 
 **Erişim Linki :** [erp.aaro.com.tr/Sozlesme/Liste](erp.aaro.com.tr/Sozlesme/Liste)
 
+[![Image](../TemelOzellikler/sozlesme.png)](TemelOzellikler)
+
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "sözleşme" şeklinde aratarak ulaşım sağlayabilirsiniz.

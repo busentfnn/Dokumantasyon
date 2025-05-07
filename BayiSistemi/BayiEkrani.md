@@ -7,6 +7,8 @@ SayfaTipi: Anasayfa
 
 **Erişim Linki :** [erp.aaro.com.tr/Bayi](erp.aaro.com.tr/Bayi)
 
+[![Image](../BayiSistemi/bayi.png)](bayi)
+
 ## Ulaşım 
 
 - erp.aaro.com.tr adresine giderek bayi kullanıcı bilgileri ile giriş yaparak bayi hesabınıza girebilirsiniz.

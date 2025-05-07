@@ -7,6 +7,7 @@ SayfaTipi: Siparis
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaAlinanSiparis](erp.aaro.com.tr/FaturaAlinanSiparis)
 
+![Alınan Sipariş](alinan-siparis.png "Alınan Sipariş")
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Alınan sipariş' şeklinde aratarak ulaşım sağlayabilirsiniz.
@@ -14,6 +15,7 @@ SayfaTipi: Siparis
 - Sol sekmede yer alan modüller kısmından *Satış&Pazarlama -> Hareket Oluştur -> Alınan Sipariş* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
+
 
 Alınan sipariş, bir müşterinin bir işletmeden belirli bir ürünü veya hizmeti satın almak için yaptığı resmi taleptir. Sipariş genellikle yazılı olarak veya çevrimiçi platformlar aracılığıyla iletilir ve işletme tarafından kabul edilir. Siparişler genellikle şu bilgileri içerir:
 

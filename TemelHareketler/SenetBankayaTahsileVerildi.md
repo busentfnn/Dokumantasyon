@@ -7,6 +7,8 @@ SayfaTipi: CekSenetBankayaTahsilataVerildi
 
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetBankayaTahsilataVerildi?TipID=SenetBankayaTahsilataVerildi](erp.aaro.com.tr/CekSenetBankayaTahsilataVerildi?TipID=SenetBankayaTahsilataVerildi)
 
+[![Image](../TemelHareketler/senetbankayatahsilata.png)](TemelHareketler)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.

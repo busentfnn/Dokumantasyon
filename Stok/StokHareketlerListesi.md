@@ -7,6 +7,7 @@ SayfaTipi: HareketListe
 
 **Erişim Linki :** [erp.aaro.com.tr/StokHareketleri/Liste](erp.aaro.com.tr/StokHareketleri/Liste)
 
+![Stok Hareket](stok-hareket.png "Stok Hareket")
 ### Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "Stok hareket listesi" şeklinde aratarak ulaşım sağlayabilirsiniz.
@@ -14,6 +15,7 @@ SayfaTipi: HareketListe
 - *Sol menüden Stok -> Listeler -> Stok Hareketleri Listesi* üzerinden ulaşım sağlayabilirsiniz.
 
 ### Tanım 
+
 
 - Banka hesaplarının hareketlerini bu sayfadan görüntüleyebilirsiniz.
 - Banka hesaplarının güncel ve belirli bir tarihteki bakiyelerini görüntüleyebilirsiniz.

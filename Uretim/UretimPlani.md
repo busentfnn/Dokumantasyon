@@ -7,6 +7,9 @@ SayfaTipi: PlanDetay
 
 **Erişim Linki :** [erp.aaro.com.tr/UrIsEmriPlan/PlanDetay](erp.aaro.com.tr/UrIsEmriPlan/PlanDetay)
 
+[![Image](../Uretim/uretimplani.png)](Uretim)
+
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Üretim Planı" şeklinde aratarak ulaşım sağlayabilirsiniz.

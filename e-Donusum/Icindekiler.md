@@ -1,5 +1,5 @@
 
-[![Image](https://i.hizliresim.com/or4q7ij.png)](https://hizliresim.com/or4q7ij)
+[![Image](../E-Donusum/Icindekiler.png)](Icindekiler)
 
 - [E-Fatura](../e-Donusum/e-Fatura.md)
 - [E-İrsaliye](../e-Donusum/e-Irsaliye.md)

@@ -7,12 +7,15 @@ SayfaTipi: BankaHareketleri
 
 **Erişim Linki :** [erp.aaro.com.tr/KasaBankadanParaCekme](erp.aaro.com.tr/KasaBankadanParaCekme)
 
+![Bankadan para çekme](bankadan-para-cekme.png "Bankadan para çekme")
+
 ## Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Banka gider' şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol sekmede yer alan modüller kısmından *Banka -> Hareket Oluştur -> Bankadan Para Çekme* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
+
 
 Bankadan para çekme hareketi, bir işletmenin banka hesabından belirli bir tutarda nakit çekerek bu tutarı kasasına veya başka bir ödeme aracı olarak kullanması sürecini ifade eder. 
 

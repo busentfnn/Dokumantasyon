@@ -7,6 +7,9 @@ SayfaTipi: SenetKarsiliksizPortfoyde
 
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetKarsiliksizPortfoyde?TipID=SenetKarsiliksizPortfoyde](https://erp.aaro.com.tr/CekSenetKarsiliksizPortfoyde?TipID=SenetKarsiliksizPortfoyde)
 
+
+[![Image](../TemelHareketler/senetkarsiliksiz.png)](TemelHareketler)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet karşılıksız" şeklinde aratarak ulaşım sağlayabilirsiniz.

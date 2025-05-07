@@ -7,6 +7,8 @@ SayfaTipi: Irsaliye
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaSatisIrsaliyesi](erp.aaro.com.tr/FaturaSatisIrsaliyesi)
 
+[![Image](../TemelHareketler/satisirsaliyesi.png)](TemelHareketler)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "satış irsaliyesi" şeklinde aratarak ulaşım sağlayabilirsiniz.

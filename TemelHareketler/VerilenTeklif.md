@@ -7,6 +7,9 @@ SayfaTipi: Teklif
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaVerilenTeklif](erp.aaro.com.tr/FaturaVerilenTeklif)
 
+
+[![Image](../TemelHareketler/verilenteklif.png)](TemelHareketler)
+
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'Verilen Teklif' şeklinde aratarak ulaşım sağlayabilirsiniz.

@@ -7,6 +7,8 @@ SayfaTipi: Modul
 
 **Erişim Linki :** [erp.aaro.com.tr/StokModulu](https://erp.aaro.com.tr/StokModulu)
 
+[![Image](../Stok/icindekiler.png)](stok)
+
 Stok ve depoda gerçekleşen her işlem için bu kısmı kullanmanız gerekmektedir. 
 Stok ve Depo ile ilgili kartları bu modül aracılığıyla ekleyebilir ve düzenleyebilirsiniz.
 Sayım girişleri, sayım farkı işleme, giriş-çıkışlar, stok kartı kod ağacı, stok vergi tanımları gibi bütün hareketleri ve işlemleri işleyeceğiniz yerdir. 

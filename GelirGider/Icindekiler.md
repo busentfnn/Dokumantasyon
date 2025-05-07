@@ -7,6 +7,9 @@ SayfaTipi: Modul
 
 **Erişim Linki :** [erp.aaro.com.tr/GelirGiderModulu](erp.aaro.com.tr/GelirGiderModulu)
 
+[![Image](../GelirGider/Icindekiler.png)](Icindekiler)
+
+
 Gelir-Gider Kartı, bir işletmenin veya bireyin gelirlerini ve giderlerini kaydederek takip etmesine yardımcı olan bir muhasebe aracıdır. 
 Düzenli tutmamız hareket takibi yapabilmemiz için çok önemlidir.
 

@@ -8,6 +8,7 @@ SayfaTipi: CekCiroEdildi
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetCiroEdildi?TipID=CekCiroEdildi](https://erp.aaro.com.tr/CekSenetCiroEdildi?TipID=CekCiroEdildi)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "çek" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek Ciro Edildi/Verildi* şeklinde ulaşım sağlayabilirsiniz. 

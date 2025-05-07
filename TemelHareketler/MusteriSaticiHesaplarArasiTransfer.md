@@ -7,6 +7,7 @@ SayfaTipi: Cari
 
 **Erişim Linki :** [erp.aaro.com.tr/CariVirman](erp.aaro.com.tr/CariVirman)
 
+[![Image](../TemelHareketler/musterisaticihesaplariarasitransfer.png)](TemelHareketler)
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "müşteri satıcı" şeklinde aratarak ulaşım sağlayabilirsiniz.

@@ -7,7 +7,7 @@ SayfaTipi: HareketListe
 
 **Erişim Linki :** [erp.aaro.com.tr/DemirbasHareketleri/Liste](erp.aaro.com.tr/DemirbasHareketleri/Liste)
 
-[![Image](https://i.hizliresim.com/j4hkn8t.png)](https://hizliresim.com/j4hkn8t)
+[![Image](../Demirbas/demirbashareketlerilistesi.png)](demirbashareketlerilistesi)
 
 ### Ulaşım 
 

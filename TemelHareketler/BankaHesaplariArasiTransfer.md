@@ -7,6 +7,7 @@ SayfaTipi: BankaHareketleri
 
 **Erişim Linki :** [erp.aaro.com.tr/BankaVirman](erp.aaro.com.tr/BankaVirman)
 
+![Image](../TemelHareketler/bankahesaplariarasitransfer.png)](TemelHareketler)
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'banka transfer' şeklinde aratarak ulaşım sağlayabilirsiniz.

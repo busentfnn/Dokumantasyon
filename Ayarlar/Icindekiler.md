@@ -1,7 +1,7 @@
 ## Ayarlar Modülü
 
 
-[![Image](https://i.hizliresim.com/6jda64q.png)](https://hizliresim.com/6jda64q)
+[![Image](../Ayarlar/ayarlar.png)](ayarlar)
 
 
 Ayarlar modülünde bulunan Lisans Paketlerim sekmesinden, lisansınıza ait tüm detayları görüntüleyebilirsiniz. e-Dönüşüm Paketlerim kısmı sayesinde, kontörlerinizi takip etmeniz mümkündür. Destek Paketlerim bölümünde ise uzaktan destek süresi, entegrasyon süresi, eğitim süresi ve ilgili ödemeler gibi bilgilere kolayca erişebilirsiniz. Aldığım Destekler sekmesinde, destek başlangıç ve bitiş tarihleri, desteği sağlayan kişi ve destekle ilgili açıklamaları görüntüleyebilirsiniz.

@@ -4,8 +4,10 @@ SayfaTipi: Modul
 ---
 
 # Banka Modülü
-[![Image](https://i.hizliresim.com/tk14qti.png)](https://hizliresim.com/tk14qti)
+
 **Erişim Linki :** [erp.aaro.com.tr/BankaModulu](erp.aaro.com.tr/BankaModulu)
+
+[![Image](../Banka/Icindekiler.png)](Icindekiler)
 
 Bu modül, işletmelerin banka hesaplarını yönetmek için gereken çeşitli işlevleri sağlar. 
 

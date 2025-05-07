@@ -7,6 +7,8 @@ SayfaTipi: StokHareketleri
 
 **Erişim Linki :** [erp.aaro.com.tr/SayimdanStokHareketleriIsleme](erp.aaro.com.tr/SayimdanStokHareketleriIsleme)
 
+[![Image](../TemelHareketler/sayimfarki.png)](TemelHareketler)
+
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'sayım' şeklinde aratarak ulaşım sağlayabilirsiniz.

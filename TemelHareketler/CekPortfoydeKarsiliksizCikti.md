@@ -8,6 +8,7 @@ SayfaTipi: CekKarsiliksizPortfoyde
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetKarsiliksizPortfoyde?TipID=CekKarsiliksizPortfoyde](https://erp.aaro.com.tr/CekSenetKarsiliksizPortfoyde?TipID=CekKarsiliksizPortfoyde)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "çek karşılıksız" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek -> Çek Portföyde Karşılıksız Çıktı* şeklinde ulaşım sağlayabilirsiniz. 

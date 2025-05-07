@@ -7,7 +7,7 @@ SayfaTipi: Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/SiparisListe/Liste](https://erp.aaro.com.tr/SiparisListe/Liste?BayiMi=true&Kapali=false&TarihBas=!AyBasi(-3))
 
-[![Image](https://i.hizliresim.com/6p0t179.png)](https://hizliresim.com/6p0t179)
+[![Image](../BayiSistemi/siparis.png)](siparis)
 
 ## Ulaşım 
 

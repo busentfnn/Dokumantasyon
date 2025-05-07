@@ -5,7 +5,10 @@ SayfaTipi: SenetBankadanIadeAlindi
 
 # Senet Bankadan İade Alındı
 
-**Erişim Linki :** [erp.aaro.com.tr/CekSenetBankadanIadeAlindi?TipID=SenetBankadanIadeAlindi](erp.aaro.com.tr/CekSenetBankadanIadeAlindi?TipID=SenetBankadanIadeAlindi)
+**Erişim Linki :** [erp.aaro.com.tr/CekSenetBankadanIadeAlindi?
+TipID=SenetBankadanIadeAlindi](erp.aaro.com.tr/CekSenetBankadanIadeAlindi?TipID=SenetBankadanIadeAlindi)
+
+[![Image](../TemelHareketler/senetbankadaniade.png)](TemelHareketler)
 
 ### Ulaşım
 

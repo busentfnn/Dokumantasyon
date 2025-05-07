@@ -6,10 +6,11 @@ SayfaTipi:
 # Karma Transfer Hareketi 
 
 **Erişim Linki :** [erp.aaro.com.tr/KarmaDekont](erp.aaro.com.tr/KarmaDekont/)
-**Erişim Linki :** [erp.aaro.com.tr/KarmaDekont](erp.aaro.com.tr/KarmaDekont/)
+
+[![Image](../TemelHareketler/karmatransferhareketi.png)](TemelHareketler)
 
 ## Ulaşım 
-## Ulaşım 
+
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "karma" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *Banka -> Hareket Oluştur -> Diğer İşlemler -> Karma Transfer Oluştur* şeklinde ulaşım sağlayabilirsiniz. 
@@ -20,7 +21,7 @@ SayfaTipi:
 - Sol menüden *Stok -> Hareket Oluştur -> Karma Transfer Oluştur* şeklinde ulaşım sağlayabilirsiniz. 
 
 ## Tanım 
-## Tanım 
+
 
 Karma transfer hareketi, banka, depo, müşteriler ve gelir-gider gibi farklı alanlarda yapılan işlemleri tek bir işlem altında birleştiren bir süreçtir. 
 Bu tür bir işlem, birden fazla varlık veya değerin aynı anda farklı hesaplar veya birimler arasında aktarılmasını sağlar.
@@ -44,18 +45,14 @@ Bu yöntem, işletmelerin işlemlerini daha hızlı, düzenli ve hatasız bir ş
 **Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 
 **Tarih:** İşlemin yapıldığı tarihi belirtir.
-**Tarih:** İşlemin yapıldığı tarihi belirtir.
 
 **Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
-**Belge No:** Belge numarasını ifade eder. Otomatik sıradaki numara gelir. İstenirse seri kullanılabilir.
+
 **Girilmesi Zorunludur.**
 
 **Depo:** Bu işlemin kullanıldığı depoyu belirtir.
-**Depo:** Bu işlemin kullanıldığı depoyu belirtir.
 
-**Vade:** Karma transfer hareketlerinde vade, birden fazla işlemle ilgili borç veya alacakların ödenmesi gereken son tarihleri ifade eder. 
-Bu vade, transfer edilen varlıkların veya değerlerin ilgili hesaplara ne zaman tam olarak yansıtılacağını belirler. 
-	Örneğin, banka transferi, müşteri ödemesi ve depo çıkışı gibi işlemlerin her biri için belirlenen son tarihler, karma transfer hareketinin vadeleri olarak adlandırılır.
+
 **Vade:** Karma transfer hareketlerinde vade, birden fazla işlemle ilgili borç veya alacakların ödenmesi gereken son tarihleri ifade eder. 
 Bu vade, transfer edilen varlıkların veya değerlerin ilgili hesaplara ne zaman tam olarak yansıtılacağını belirler. 
 	Örneğin, banka transferi, müşteri ödemesi ve depo çıkışı gibi işlemlerin her biri için belirlenen son tarihler, karma transfer hareketinin vadeleri olarak adlandırılır.
@@ -69,10 +66,7 @@ Bu vade, transfer edilen varlıkların veya değerlerin ilgili hesaplara ne zama
 
 **Tip:** Alt hareket tipini belirtir.
 
-### Açıklamalar
-### Açıklamalar
 
-**Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
 **Açıklamalar:** Ek açıklamaları belirtir. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 ### Etiketler
@@ -85,7 +79,7 @@ Yapacağımız işlem için elimizde belgeler var ise jpg, png, pdf vb. formatla
 Buraya işlem gerçekleşirkenki görselleri yükleyebiliriz.
 
 Belge eklemek için tıklayalım ;
-Belge eklemek için tıklayalım ;
+
 
 - *Daha önce yüklediklerimden seç -> Belgeyi seç
 -> İlişkilendir* şeklinde belge üye ekleme işlemimizi gerçekleştirebiliriz.

@@ -8,6 +8,7 @@ SayfaTipi: CekBankadanIadeAlindi
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetBankadanIadeAlindi?TipID=CekBankadanIadeAlindi&](erp.aaro.com.tr/CekSenetBankadanIadeAlindi?TipID=CekBankadanIadeAlindi&)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Çek" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek Bankadan İade Alındı* üzerinden ulaşım sağlayabilirsiniz. 

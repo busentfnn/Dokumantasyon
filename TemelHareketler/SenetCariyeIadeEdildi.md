@@ -7,6 +7,8 @@ SayfaTipi: SenetCariyeIadeEdildi
 
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetCariyeIadeEdildi?TipID=SenetCariyeIadeEdildi](https://erp.aaro.com.tr/CekSenetCariyeIadeEdildi?TipID=SenetCariyeIadeEdildi)
 
+[![Image](../TemelHareketler/senetcariyeiade.png)](TemelHareketler)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.

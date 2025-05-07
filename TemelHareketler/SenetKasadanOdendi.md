@@ -7,6 +7,8 @@ SayfaTipi: SenetKasadanOdendi
 
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetKasadanOdendi?TipID=SenetKasadanOdendi](https://erp.aaro.com.tr/CekSenetKasadanOdendi?TipID=SenetKasadanOdendi)
 
+[![Image](../TemelHareketler/senetkasa.png)](TemelHareketler)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Senet" şeklinde aratarak ulaşım sağlayabilirsiniz.

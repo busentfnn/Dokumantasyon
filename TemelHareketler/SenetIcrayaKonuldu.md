@@ -13,6 +13,8 @@ senedicrayaKonuldu](https://erp.aaro.com.tr/Cek
 senedicrayaKonuldu?TipID=
 senedicrayaKonuldu)
 
+[![Image](../TemelHareketler/seneticra.png)](TemelHareketler)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.

@@ -7,6 +7,9 @@ SayfaTipi: SenetSaticidanIadeAlindi
 
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetCaridenIadeAlindi?TipID=SenetCaridenIadeAlindi](https://erp.aaro.com.tr/CekSenetCaridenIadeAlindi?TipID=SenetCaridenIadeAlindi)
 
+
+[![Image](../TemelHareketler/senetsaticidaniade.png)](TemelHareketler)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.

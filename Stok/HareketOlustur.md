@@ -4,7 +4,7 @@ SayfaTipi: Hareket Olustur
 ---
 
 ## Stok Hareketleri
-
+![Stok Hareket](stok-hareket2.png "Stok Hareket")
 ### Genel
 
 - [Satış Faturası](../TemelHareketler/SatisFaturasi.md)

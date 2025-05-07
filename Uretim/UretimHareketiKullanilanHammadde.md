@@ -5,7 +5,9 @@ SayfaTipi: Liste
 
 # Üretim Hareketi Kullanılan Ham maddeler Listesi
 
-**Erişim Linki :** [erp.aaro.com.tr/UrAkisOperasyonHam madde/Liste](erp.aaro.com.tr/UrAkisOperasyonHam madde/Liste)
+**Erişim Linki :** [erp.aaro.com.tr/UrAkisOperasyonHammadde/Liste](erp.aaro.com.tr/UrAkisOperasyonHammadde/Liste)
+
+[![Image](../Uretim/uretimhammaddelistesi.png)](Uretim)
 
 ## Ulaşım
 

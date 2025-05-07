@@ -3,12 +3,12 @@ SayfaID: FaturaAlisIrsaliyesi
 SayfaTipi: Irsaliye
 ---
 
-# Alış İade Faturası
+# Alış İrsaliyesi
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaAlisIrsaliyesi](erp.aaro.com.tr/FaturaAlisIrsaliyesi)
 
+[![Image](../TemelHareketler/alis-irsaliye.png)](TemelHareketler)
 
-# Alış İrsaliyesi
 
 ## Ulaşım 
 

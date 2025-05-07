@@ -7,6 +7,8 @@ SayfaTipi: Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/Plasiyer/Liste](erp.aaro.com.tr/Plasiyer/Liste)
 
+[![Image](../TemelOzellikler/plasiyer.png)](TemelOzellikler)
+
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "plasiyer" aratarak ulaşım sağlayabilirsiniz.

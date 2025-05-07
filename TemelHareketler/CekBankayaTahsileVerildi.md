@@ -8,6 +8,7 @@ SayfaTipi: CekBankayaTahsilataVerildi
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetBankayaTahsilataVerildi?TipID=CekBankayaTahsilataVerildi&](erp.aaro.com.tr/CekSenetBankayaTahsilataVerildi?TipID=CekBankayaTahsilataVerildi&)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "Çek" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek Bankaya Tahsile Verildi* üzerinden ulaşım sağlayabilirsiniz. 

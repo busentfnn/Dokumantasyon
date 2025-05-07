@@ -7,6 +7,8 @@ SayfaTipi: Fatura
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaDepolarArasiTransfer](erp.aaro.com.tr/FaturaDepolarArasiTransfer)
 
+[![Image](../TemelHareketler/depolararasitransfer.png)](TemelHareketler)
+
 ## Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "depo" şeklinde aratarak ulaşım sağlayabilirsiniz.

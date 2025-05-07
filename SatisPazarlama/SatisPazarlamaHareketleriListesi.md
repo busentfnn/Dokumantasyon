@@ -4,6 +4,7 @@ SayfaTipi: Liste
 ---
 
 # Listeler 
+![Satış Pazarlama](satis-pazarlama.png "Satış Pazarlama")
 
 - [Satış Faturası Listesi](../TemelHareketler/SatisFaturasi)
 - [Satış İrsaliyesi Listesi](../TemelHareketler/Satisİrsaliyesi)

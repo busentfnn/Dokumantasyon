@@ -7,6 +7,8 @@ SayfaTipi: KartListe
 
 **Erişim Linki :** [erp.aaro.com.tr/UrOperasyon/Liste](erp.aaro.com.tr/UrOperasyon/Liste)
 
+[![Image](../Uretim/operasyon.png)](Uretim)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon" şeklinde aratarak ulaşım sağlayabilirsiniz.

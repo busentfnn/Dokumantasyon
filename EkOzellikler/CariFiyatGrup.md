@@ -7,7 +7,7 @@ SayfaTipi: CariGruplari
 
 **Erişim Linki :** [erp.aaro.com.tr/FiyatListesiCariGruplari/Kalem](erp.aaro.com.tr/FiyatListesiCariGruplari/Kalem)
 
-[![Image](https://i.hizliresim.com/3ddjazj.png)](https://hizliresim.com/3ddjazj)
+[![Image](../EkOzellikler/carifiyatgrup.png)](carifiyatgrup)
 
 ## Ulaşım 
 

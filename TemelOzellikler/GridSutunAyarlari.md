@@ -1,5 +1,7 @@
 
 ## Grid Sütunları Ayarlama
+![Gird](grid1.png "Gird")
+![Gird](grid2.png "Gird")
 
 Grid sütunlarını ayarlamak, bir tablo veya veri görünümündeki sütunların sırasını düzenlemeyi ifade eder. 
 Bu ayarlamalar, verilerin daha okunabilir ve kullanıcı dostu bir şekilde sunulmasını sağlar.

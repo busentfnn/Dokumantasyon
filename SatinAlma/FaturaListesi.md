@@ -2,6 +2,8 @@
 # Fatura Listesi (Alış)
 **Erişim Linki :** https://erp.aaro.com.tr/AlisFaturasiListe/Liste
 
+[![Image](../SatinAlma/alisfatura.png)](alisfatura)
+
 Alış fatura listesi, bir işletmenin tarafına düzenlenen tüm faturaları içeren, fatura numaraları, tarihleri ve tutarları gibi bilgileri içeren bir dökümdür. 
 Bu liste, mali kayıtların takibi ve denetimi için kullanılır.
 

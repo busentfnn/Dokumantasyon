@@ -7,6 +7,8 @@ SayfaTipi: Kart
 
 **Erişim Linki :** [erp.aaro.com.tr/UrOperasyonMakine/Liste](erp.aaro.com.tr/UrOperasyonMakine/Liste)
 
+[![Image](../Uretim/operasyonmakine.png)](Uretim)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "operasyon makine" şeklinde aratarak ulaşım sağlayabilirsiniz.

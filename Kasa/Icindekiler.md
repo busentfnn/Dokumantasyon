@@ -7,6 +7,9 @@ SayfaTipi: Modul
 
 **Erişim Linki :** [erp.aaro.com.tr/KasaModulu](erp.aaro.com.tr/KasaModulu)
 
+[![Image](../Kasa/Icindekiler.png)](Icindekiler)
+
+
 Bu kısımda; Kasadan gerçekleşen her işlem için bu kısmı kullanmamız gerekmektedir. 
 Kasa ile ilgili kartları bu modül aracılığıyla ekleyebilir ve düzenleyebiliriz.
 Tahsilatlar, transferler, giriş, çıkışlar bütün hareketleri ve işlemleri işleyeceğimiz yerdir. 

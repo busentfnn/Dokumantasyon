@@ -7,6 +7,8 @@ SayfaTipi: Banka
 
 **Erişim Linki :** [erp.aaro.com.tr/BankaOdeme](https://erp.aaro.com.tr/BankaOdeme)
 
+[![Image](../TemelHareketler/havaleeftgonderme.png)](TemelHareketler)
+
 **Havale:** aynı banka içinde veya farklı bankalar arasında, genellikle daha hızlı işleyen bir para transferi yöntemidir.
 **EFT:** Elektronik Fon Transferi'nin kısaltmasıdır ve genellikle daha büyük miktarlarda para transferlerinde kullanılır. EFT işlemleri genellikle bir bankadan diğerine birkaç iş günü içinde gerçekleşir.
 

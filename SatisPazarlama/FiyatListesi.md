@@ -7,6 +7,8 @@ SayfaTipi: FiyatListe
 
 **Erişim Linki :** [erp.aaro.com.tr/FiyatListeleri/Liste?TipID=136001](erp.aaro.com.tr/FiyatListeleri/Liste?TipID=136001)
 
+![Fiyat Listesi](fiyat-listesi.png "Fiyat Listesi")
+
 Satış fiyat listesi, bir işletmenin sattığı ürün veya hizmetlerin güncel fiyatlarını gösteren bir listedir. 
 Bu liste, ürün veya hizmet adı, birim fiyatı ve varsa indirimler gibi bilgileri içerir. 
 Satış fiyat listesi, müşterilerin ve işletme personelinin fiyat bilgilerine kolayca ulaşmasını sağlar.

@@ -7,6 +7,9 @@ SayfaTipi: Kart
 
 **Erişim Linki :** [erp.aaro.com.tr/GelirGider/Kalem](erp.aaro.com.tr/GelirGider/Kalem)
 
+[![Image](../GelirGider/gelirgiderkarti.png)](gelirgiderkarti)
+
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Gelir Gider Kartı" şeklinde aratarak ulaşım sağlayabilirsiniz.

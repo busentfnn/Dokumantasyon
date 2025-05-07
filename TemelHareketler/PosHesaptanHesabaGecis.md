@@ -7,6 +7,8 @@ SayfaTipi: Banka
 
 **Erişim Linki :** [erp.aaro.com.tr/KrediPosBankadanTahsilat](https://erp.aaro.com.tr/KrediPosBankadanTahsilat)
 
+[![Image](../TemelHareketler/poshesaptanhesabagecis.png)](TemelHareketler)
+
 ## Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "pos hesap" şeklinde aratarak ulaşım sağlayabilirsiniz.

@@ -7,6 +7,9 @@ SayfaTipi: KartListe
 
 **Erişim Linki :** [erp.aaro.com.tr/Cari/Liste](erp.aaro.com.tr/Cari/Liste)
 
+[![Image](../GelirGider/gelirgiderkartilistesi.png)](gelirgiderkartilistesi)
+
+
 ### Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Gelir Gider Kartı Listesi" şeklinde aratarak ulaşım sağlayabilirsiniz.

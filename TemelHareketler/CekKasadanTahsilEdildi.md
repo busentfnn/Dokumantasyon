@@ -8,6 +8,7 @@ SayfaTipi: CekKasadanTahsilEdildi
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetKasadanTahsilEdildi?TipID=CekKasadanTahsilEdildi](https://erp.aaro.com.tr/CekSenetKasadanTahsilEdildi?TipID=CekKasadanTahsilEdildi)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek Kasadan Tahsil Edildi* şeklinde ulaşım sağlayabilirsiniz. 

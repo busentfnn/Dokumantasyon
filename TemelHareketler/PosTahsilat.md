@@ -7,6 +7,8 @@ SayfaTipi: Banka
 
 **Erişim Linki :** [erp.aaro.com.tr/KasaNakitTahsilat](https://erp.aaro.com.tr/KasaNakitTahsilat)
 
+[![Image](../TemelHareketler/nakittahsilat.png)](TemelHareketler)
+
 ## Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "nakit tahsilat" şeklinde aratarak ulaşım sağlayabilirsiniz.

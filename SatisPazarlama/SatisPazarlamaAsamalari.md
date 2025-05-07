@@ -4,6 +4,7 @@ SayfaTipi: Modul
 ---
 
 # Satış Pazarlama Aşamaları;
+![Satış Pazarlama](satis-pazarlama.png "Satış Pazarlama")
 
 Satış ve pazarlama aşamaları, bir ürün veya hizmetin pazara sunulmasından önceki ve sonraki tüm adımları kapsar. Bu süreç, teklif aşamasıyla başlar. İşte bu aşamanın detayları:
 

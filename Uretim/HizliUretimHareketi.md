@@ -7,6 +7,9 @@ SayfaTipi: HizliUretimKalem
 
 **Erişim Linki :** [erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem](erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem)
 
+
+[![Image](../Uretim/hizliuretim.png)](Uretim)
+
 ### Ulaşım
 
 - Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Uretim Hareketi" şeklinde aratarak ulaşım sağlayabilirsiniz.

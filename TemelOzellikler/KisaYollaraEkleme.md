@@ -2,12 +2,14 @@
 # Kısayollara Ekleme
 
 ## Tanım
+![Kısayollar 1](kisayol1.png "Kısayollar 1")
 
 **Kısayollarım**a ekle özelliği, kullanıcıların sık kullandıkları işlevleri veya sayfaları kişiselleştirilmiş bir menüye ekleyerek kolayca erişmelerini sağlar. 
 Bu özellik, kullanıcılarınızın belirli işlem veya sayfalara hızlı bir şekilde bulmalarını ve erişmelerini sağlayarak iş verimliliğini artırır.
 Bu menü, ekranın kenar çubuğunda yer almaktadır.
 Eklediğiniz kısayolları istediğiniz sıraya göre düzenleyebilir ve yeniden sıralayabilirsiniz. 
 Bu, kısayol menüsünün kişisel tercihlere ve kullanım alışkanlıklarına göre özelleştirmenizi sağlar.
+![Kısayollar 2](kisayol2.png "Kısayollar 2")
 
 ## Ulaşım
 

@@ -13,6 +13,7 @@ SayfaTipi: KasaHareketleri
 - Sol sekmede yer alan modüller kısmından *Kasa -> Hareket Oluştur -> Kasadan Gelir Hareketi* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
+![Kasa İşlem](kasa-islem.png "Kasa İşlem")
 
 Kasadan gelir hareketi, bir işletmenin kasa hesabına yapılan mali girişleri temsil eder. 
 Bu, ürün satışları, hizmet bedelleri, alacak tahsilatları veya diğer gelir kaynaklarından gelen nakit akışını ifade eder.

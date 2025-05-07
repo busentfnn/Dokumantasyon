@@ -7,6 +7,8 @@ SayfaTipi: SenetAlindi
 
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetAlindi?TipID=SenetAlindi](https://erp.aaro.com.tr/CekSenetAlindi?TipID=SenetAlindi)
 
+[![Image](../TemelHareketler/senetalindi.png)](TemelHareketler)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.

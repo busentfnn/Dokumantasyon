@@ -7,7 +7,7 @@ SayfaTipi: Kart
 
 **Erişim Linki :** [erp.aaro.com.tr/Demirbas/Kalem](erp.aaro.com.tr/Demirbas/Kalem)
 
-[![Image](https://i.hizliresim.com/fe2bl4v.png)](https://hizliresim.com/fe2bl4v)
+[![Image](../Demirbas/demirbaskarti.png)](demirbaskarti)
 
 ### Ulaşım
 

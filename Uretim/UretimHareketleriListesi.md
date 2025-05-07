@@ -7,6 +7,8 @@ SayfaTipi: Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/UrAkisOperasyon/Liste](erp.aaro.com.tr/UrAkisOperasyon/Liste)
 
+[![Image](../Uretim/uretimhareketlerilistesi.png)](Uretim)
+
 ### Ulaşım
 
 - Sol menüden *Üretim -> Listeler -> Üretim Hareketleri Listesi* şeklinde ulaşım sağlayabilirsiniz.

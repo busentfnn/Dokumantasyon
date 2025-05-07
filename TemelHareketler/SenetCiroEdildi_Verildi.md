@@ -7,6 +7,8 @@ SayfaTipi: SenetCiroEdildi
 
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetCiroEdildi?TipID=SenetCiroEdildi](https://erp.aaro.com.tr/CekSenetCiroEdildi?TipID=SenetCiroEdildi)
 
+[![Image](../TemelHareketler/senetciroedildi.png)](TemelHareketler)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "senet" şeklinde aratarak ulaşım sağlayabilirsiniz.

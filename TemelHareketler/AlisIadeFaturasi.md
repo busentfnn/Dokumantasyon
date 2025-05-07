@@ -7,6 +7,8 @@ SayfaTipi: IadeFatura
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaAlisIadeFaturasi](erp.aaro.com.tr/FaturaAlisIadeFaturasi)
 
+[![Image](../TemelHareketler/alisiadefat.png)](TemelHareketler)
+
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Alış iade faturası' şeklinde aratarak ulaşım sağlayabilirsiniz.

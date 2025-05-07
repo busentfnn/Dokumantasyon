@@ -7,6 +7,8 @@ SayfaTipi: Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/UrMakineAriza/Liste](erp.aaro.com.tr/UrMakineAriza/Liste)
 
+[![Image](../Uretim/makineariza.png)](Uretim)
+
 ## Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "makine arıza" şeklinde aratarak ulaşım sağlayabilirsiniz.

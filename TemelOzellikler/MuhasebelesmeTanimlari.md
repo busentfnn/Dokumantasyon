@@ -1,6 +1,6 @@
 
 ## Muhasebeleşme Tanımları 
-
+![Muhasebeleşme](muhasebelesme-tanimlari.png "Muhasebeleşme")
 Muhasebeleşme, işletme içinde gerçekleşen finansal faaliyetlerin doğru bir şekilde kaydedilmesi, sınıflandırılması ve raporlanması sürecidir. 
 Bu işlemler, gelirler, giderler, alacaklar ve borçlar gibi finansal unsurların düzenli bir şekilde takip edilmesi ve yasal mevzuata uygun bir şekilde oluşturulmasını sağlar. 
 ERP sistemlerinin muhasebeleşme modülü, Bu büyümeyi otomatikleştirerek finansal operasyonlarını daha verimli ve hatasız bir şekilde yürütülmesine yardımcı olur.

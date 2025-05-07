@@ -7,6 +7,8 @@ SayfaTipi: HareketListe
 
 **Erişim Linki :** [erp.aaro.com.tr/CariHareketleri/Liste](https://erp.aaro.com.tr/CariHareketleri/Liste)
 
+[![Image](../MusteriSatici/musterisaticihareketlerilistesi.png)](musterisaticihareketlerilistesi)
+
 ### Ulaşım 
 Aşağıdaki şekillerde ulaşım sağlayabilirsiniz:
 
@@ -15,7 +17,6 @@ Aşağıdaki şekillerde ulaşım sağlayabilirsiniz:
 - Sol menüden Müşteri/Satıcı -> Listeler -> Müşteri/Satıcı Hareketleri Listesi üzerinden ulaşım sağlayabilirsiniz.
 
 ### Tanım 
-
 
 - Müşteri/Satıcı kartlarının hareketlerini bu sayfadan görüntüleyebilirsiniz. [Müşteri/Satıcı Kartı](../MusteriSatici/MusteriSaticiKarti.md)
 - Müşteri/Satıcı kartlarının güncel ve belirli bir tarihteki bakiyelerini görüntüleyebilirsiniz.

@@ -5,7 +5,9 @@ SayfaTipi: Hareket
 
 # Üretime Ham Madde Çıkışı
 
-**Erişim Linki :** [erp.aaro.com.tr/UretimeHam maddeCikisi](erp.aaro.com.tr/UretimeHam maddeCikisi)
+**Erişim Linki :** [erp.aaro.com.tr/UretimeHammaddeCikisi](erp.aaro.com.tr/UretimeHammaddeCikisi)
+
+[![Image](../Uretim/uretimhammadde.png)](Uretim)
 
 ## Ulaşım
 

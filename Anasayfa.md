@@ -7,6 +7,9 @@ SayfaTipi: Ana sayfa
 
 **Erişim Linki :** [erp.aaro.com.tr](erp.aaro.com.tr)
 
+[![Image](../Dokumantasyon/anasayfa.png)](Dokumantasyon)
+
+
 AARO açıldığında, ana sayfada özelleştirilmiş göstergeleriniz sizi karşılar. İşletmeniz için en önemli performans göstergelerini seçip öne çıkarabilirsiniz. 
 
 Detaylı verilere hızlıca erişmek için göstergelere tıklamanız yeterlidir. Gösterge detaylarına [buradan](../Gostergeler.md) ulaşabilirsiniz.

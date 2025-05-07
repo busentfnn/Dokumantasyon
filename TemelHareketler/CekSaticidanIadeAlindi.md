@@ -8,6 +8,7 @@ SayfaTipi: CekCaridenIadeAlindi
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetCaridenIadeAlindi?TipID=CekCaridenIadeAlindi](https://erp.aaro.com.tr/CekSenetCaridenIadeAlindi?TipID=CekCaridenIadeAlindi)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek -> Çek Satıcıdan İade*  şeklinde ulaşım sağlayabilirsiniz. 

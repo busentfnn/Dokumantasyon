@@ -15,6 +15,7 @@ SayfaTipi: Kasa
 - Sol menüden *Kasa -> Hareket Oluştur -> Nakit Tahsilat* şeklinde ulaşım sağlayabilirsiniz. 
 
 ## Tanım
+![Kasa İşlem](kasa-islem.png "Kasa İşlem")
 
 Nakit tahsilat, bir işletmenin müşterilerinden yaptığı satışlar karşılığında nakit para olarak aldığı ödemeleri ifade eder. 
 Bu tür tahsilatlar, işletmenin günlük faaliyetlerinde nakit akışını sağlamak ve işletme sermayesini yönetmek için önemlidir. 

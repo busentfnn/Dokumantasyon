@@ -7,6 +7,8 @@ SayfaTipi: HareketListe
 
 **Erişim Linki :** [erp.aaro.com.tr/KrediPosKosul/Liste](erp.aaro.com.tr/KrediPosKosul/Liste)
 
+[![Image](../Banka/poshesabagecistanimi.png)](poshesabagecistanimi)
+
 ### Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "pos" şeklinde aratarak ulaşım sağlayabilirsiniz.

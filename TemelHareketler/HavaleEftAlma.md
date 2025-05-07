@@ -7,6 +7,8 @@ SayfaTipi: Banka
 
 **Erişim Linki :** [erp.aaro.com.tr/BankaTahsilat](https://erp.aaro.com.tr/BankaTahsilat)
 
+[![Image](../TemelHareketler/havaleeftalma.png)](TemelHareketler)
+
 ## Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "havale eft" şeklinde aratarak ulaşım sağlayabilirsiniz.

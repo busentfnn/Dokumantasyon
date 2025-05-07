@@ -7,7 +7,7 @@ SayfaTipi: Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/CariHareketleri/Liste](https://erp.aaro.com.tr/CariHareketleri/Liste?BayiMi=true&DevirGetir=true&TarihBas=2024-09-01)
 
-[![Image](https://i.hizliresim.com/m7obcqj.png)](https://hizliresim.com/m7obcqj)
+[![Image](../BayiSistemi/bayihareketlerilistesi.png)](bayihareketlerilistesi)
 
 ## Ulaşım 
 

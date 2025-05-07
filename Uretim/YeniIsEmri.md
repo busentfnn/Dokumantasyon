@@ -1,4 +1,6 @@
 
+![Yeni İş Emri](../Uretim/yeni-is-emri.png "Yeni İş Emri")
+
 # İş Emri Ekleme
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan **İş emri** şeklinde aratarak ulaşım sağlayabilirsiniz.

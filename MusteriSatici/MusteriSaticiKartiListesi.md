@@ -7,6 +7,7 @@ SayfaTipi: KartListe
 
 **Erişim Linki :** [erp.aaro.com.tr/Cari/Liste](https://erp.aaro.com.tr/Cari/Liste)
 
+![Müşteri Satıcı listesi](liste.png "Müşteri Satıcı listesi")
 ### Ulaşım
 
 Aşağıdaki gibi birkaç farklı yoldan ulaşabilirsiniz:
@@ -16,6 +17,7 @@ Aşağıdaki gibi birkaç farklı yoldan ulaşabilirsiniz:
 - Sol menüden *Musteri/Satici -> Modül Sayfası -> Kartlar -> Müşteri/Satıcı Kartı Listesi* üzerinden ulaşım sağlayabilirsiniz. 
 
 ### Tanım 
+
 
 - [Musteri/Satici Kartı](../MusteriSatici/MusteriSaticiKarti.md) listesidir.
 - Müşteri/Satıcı kartlarının genel bilgilerini bu sayfadan görüntüleyebilirsiniz.

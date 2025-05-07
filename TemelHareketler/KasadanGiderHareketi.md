@@ -13,6 +13,7 @@ SayfaTipi: KasaHareketleri
 - Sol sekmede yer alan modüller kısmından *Kasa -> Hareket Oluştur -> Kasadan Gider Hareketi* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
+![Kasa İşlem](kasa-islem.png "Kasa İşlem")
 
 Kasadan gider hareketi, bir işletmenin kasa hesabından yapılan mali çıkışları temsil eder. 
 Bu, çeşitli giderler, ödemeler veya diğer mali işlemler nedeniyle nakit çıkışını ifade eder.

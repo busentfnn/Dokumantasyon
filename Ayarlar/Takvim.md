@@ -7,6 +7,8 @@ SayfaTipi: Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/Takvim/Liste](erp.aaro.com.tr/Takvim/Liste/)
 
+[![Image](../Ayarlar/takvim.png)](takvim)
+
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "takvim" aratarak ulaşım sağlayabilirsiniz.

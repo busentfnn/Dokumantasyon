@@ -7,6 +7,8 @@ SayfaTipi: UrIsEmri/Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/UrFireNeden/Liste](erp.aaro.com.tr/UrFireNeden/Liste)
 
+![İş Emri](../Uretim/is-emri-detay.png "İş Emri")
+
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "İş emri" şeklinde aratarak ulaşım sağlayabilirsiniz.

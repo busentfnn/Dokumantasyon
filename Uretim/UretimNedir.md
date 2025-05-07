@@ -4,6 +4,7 @@ SayfaTipi: Modül
 ---
 
 # Üretim
+![Üretim](../Uretim/uretim.png "Üretim")
 
 **Erişim Linki :** [erp.aaro.com.tr/UretimModulu](erp.aaro.com.tr/UretimModulu)
 

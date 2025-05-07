@@ -5,6 +5,8 @@ SayfaTipi: Hareket Olustur
 
 ## Satış Pazarlama Hareketleri 
 
+![Hareket](hareket.png "Hareket")
+
 - [Satış Faturası](../TemelHareketler/SatisFaturasi.md)
 - [Satış İrsaliyesi](TemelHareketler/Satisİrsaliyesi.md)
 - [Nakit Tahsilat](../TemelHareketler/NakitTahsilat.md)

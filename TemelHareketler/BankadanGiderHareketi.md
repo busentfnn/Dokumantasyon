@@ -7,12 +7,15 @@ SayfaTipi: BankaHareketleri
 
 **Erişim Linki :** [erp.aaro.com.tr/BankaAlacakDekontu](erp.aaro.com.tr/BankaAlacakDekontu)
 
+![Bankadan Gider](bankadan-gider.png "Bankadan Gider")
+
 ## Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Banka gider'  şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol sekmede yer alan modüller kısmından *Banka -> Hareket Oluştur -> Bankadan Gider Hareketi* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
+
 
 Banka hesabından yapılan harcamaları veya ödemeleri ifade eder. 
 Bu terim, bir işletmenin veya bireyin banka hesabından çekilen parayla gerçekleştirilen herhangi bir finansal işlemi kapsar.

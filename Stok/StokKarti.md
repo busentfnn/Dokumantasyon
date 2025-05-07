@@ -7,6 +7,7 @@ SayfaTipi: Kart
 
 **Erişim Linki :** [erp.aaro.com.tr/Stok/Kalem](https://erp.aaro.com.tr/Stok/Kalem)
 
+![Stok Hareket](stok-karti.png "Stok Hareket")
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "Stok kartı" olarak aratarak ulaşım sağlayabilirsiniz.
@@ -14,6 +15,7 @@ SayfaTipi: Kart
 - *Sol menüden Stok -> Kartlar -> Stok Kartı Listesi* üzerinden ulaşım sağlayarak yeni kart ekleyebilir ya da mevcutları düzenleyebilirsiniz.
 
 ### Tanım
+
 
 Stok, bir işletmenin satış veya üretim amacıyla depoladığı tüm fiziksel varlıkları ifade eder. Bu varlıklar malzemeler, ham madde, yarı mamul veya tamamlanmış ürünler olabilir. Stok kartlarınızı tanımlayarak, bu varlıkların miktarını, değerini ve döngüsünü izleyebilir ve optimize edebilirsiniz. Stok seviyelerini belirlemek, stok hareketlerini işlemek ve envanterin doğru bir şekilde yönetilmesi için stok kartları oluşturulmalıdır. 
 

@@ -7,7 +7,7 @@ SayfaTipi: Modul
 
 **Erişim Linki :** [erp.aaro.com.tr/Kullanicilar/BayiKalem](erp.aaro.com.tr/Kullanicilar/BayiKalem)
 
-[![Image](https://i.hizliresim.com/4avj60b.png)](https://hizliresim.com/4avj60b)
+[![Image](../BayiSistemi/bayiyeni.png)](bayiyeni)
 
 ## Ulaşım 
 

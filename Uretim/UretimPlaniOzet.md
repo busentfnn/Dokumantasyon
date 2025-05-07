@@ -7,6 +7,8 @@ SayfaTipi: UretimPlaniToplam
 
 **Erişim Linki :** [erp.aaro.com.tr/UrIsEmriPlan/UretimPlaniToplam](erp.aaro.com.tr/UrIsEmriPlan/UretimPlaniToplam)
 
+[![Image](../Uretim/uretimozet.png)](Uretim)
+
 ### Ulaşım
 
 - Sol menüden Üretim -> Listeler -> Üretim Planı Özet şeklinde ulaşım sağlayabilirsiniz.

@@ -7,6 +7,7 @@ SayfaTipi: Fatura
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaAlisFaturasi](erp.aaro.com.tr/FaturaAlisFaturasi)
 
+![Alış Faturası](alis-faturasi.png "Alış Faturası")
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Alış' şeklinde aratarak ulaşım sağlayabilirsiniz.
@@ -14,6 +15,7 @@ SayfaTipi: Fatura
 - Sol sekmede yer alan modüller kısmından *Satın Alma -> Hareket Oluştur -> Alış Faturası* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
+
 
 ### Alış Faturası:
 
@@ -25,6 +27,7 @@ SayfaTipi: Fatura
 - Satın alınan mal veya hizmetin tanımı, miktarı, birim fiyatı, toplam tutarı ve vergiler
 
  Alış faturası, işletmenin mali durumunu izlemek, vergi ödemelerini hesaplamak ve tedarikçilerle olan ticari ilişkileri düzenlemek için önemlidir. Ayrıca, iade veya değişim işlemlerini yönetmek için de kullanılabilir.
+![Alış Faturası](alis-faturasi-islem.png "Alış Faturası")
 
 ### Ek İşlem Butonu:
 Bu işlemi sıkça kullanıyorsanız, anasayfanıza kısayol ekleyerek hızlı erişim sağlayabilirsiniz. Kısayol eklemek, işleminizi daha hızlı ve pratik bir şekilde gerçekleştirmenize yardımcı olur. Ana sayfaya kısayol eklemek için "Ana Sayfaya Kısayol Olarak Ekle" seçeneğini kullanabilirsiniz.

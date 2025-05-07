@@ -8,6 +8,7 @@ SayfaTipi: CekKasadanOdendi
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetKasadanOdendi?TipID=CekKasadanOdendi](https://erp.aaro.com.tr/CekSenetKasadanOdendi?TipID=CekKasadanOdendi)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek Kasadan Ödendi* şeklinde ulaşım sağlayabilirsiniz. 

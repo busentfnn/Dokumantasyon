@@ -7,6 +7,8 @@ SayfaTipi: Siparis
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaVerilenSiparis](erp.aaro.com.tr/FaturaVerilenSiparis)
 
+[![Image](../TemelHareketler/verilensiparis.png)](TemelHareketler)
+
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'sipariş' şeklinde aratarak ulaşım sağlayabilirsiniz.

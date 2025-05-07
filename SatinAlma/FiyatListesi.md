@@ -3,7 +3,7 @@
 
 **Erişim Linki :** https://erp.aaro.com.tr/FiyatListeleri/Liste?TipID=136002
 
-[![Image](https://i.hizliresim.com/ia5yjej.png)](https://hizliresim.com/ia5yjej)
+[![Image](../SatinAlma/alisfiyatlistesi.png)](alisfiyatlistesi)
 
 Alış fiyat listesi, bir işletmenin aldığı ürün veya hizmetlerin güncel fiyatlarını gösteren bir listedir. 
 Bu liste, ürün veya hizmet adı, birim fiyatı ve vade gibi bilgileri içerir. 

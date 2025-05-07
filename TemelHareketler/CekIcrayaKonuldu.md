@@ -11,6 +11,7 @@ senedicrayaKonuldu?TipID=CekIcrayaKonuldu](https://erp.aaro.com.tr/Cek
 senedicrayaKonuldu?TipID=CekIcrayaKonuldu)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek İcraya Konuldu* şeklinde ulaşım sağlayabilirsiniz. 

@@ -7,6 +7,8 @@ SayfaTipi: SenetKasadanTahsilEdildi
 
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetKasadanTahsilEdildi?TipID=CekKasadanTahsilEdildi](https://erp.aaro.com.tr/CekSenetKasadanTahsilEdildi?TipID=CekKasadanTahsilEdildi)
 
+[![Image](../TemelHareketler/senetkasadan.png)](TemelHareketler)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Senet" şeklinde aratarak ulaşım sağlayabilirsiniz.

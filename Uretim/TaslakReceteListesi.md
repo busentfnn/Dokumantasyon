@@ -7,6 +7,8 @@ SayfaTipi: Kart
 
 **Erişim Linki :** [erp.aaro.com.tr/Cari/Kalem](erp.aaro.com.tr/Cari/Kalem)
 
+[![Image](../Uretim/taslakrecete.png)](Uretim)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" şeklinde aratarak ulaşım sağlayabilirsiniz.

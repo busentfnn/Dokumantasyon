@@ -7,6 +7,8 @@ SayfaTipi:
 
 **Erişim Linki :** [erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem?SadeceIscilik=true](erp.aaro.com.tr/HizliUretimHareketi/HizliUretimKalem?SadeceIscilik=true)
 
+[![Image](../Uretim/hizliuretim.png)](Uretim)
+w
 ### Ulaşım
 
 - Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "işçilik" şeklinde aratarak ulaşım sağlayabilirsiniz.

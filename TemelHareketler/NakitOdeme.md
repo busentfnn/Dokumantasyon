@@ -8,6 +8,7 @@ SayfaTipi: KasaHareketleri
 **Erişim Linki :** [erp.aaro.com.tr/KasaNakitOdeme](erp.aaro.com.tr/KasaNakitOdeme)
 
 ## Ulaşım 
+![Kasa İşlem](kasa-islem.png "Kasa İşlem")
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan 'kasa' şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol sekmede yer alan modüller kısmından *Kasa -> Hareket Oluştur -> Nakit Ödeme* şeklinde ulaşım sağlayabilirsiniz.

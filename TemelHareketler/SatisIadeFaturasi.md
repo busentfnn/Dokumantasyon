@@ -7,6 +7,8 @@ SayfaTipi: Fatura
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaSatisIadeFaturasi](erp.aaro.com.tr/FaturaSatisIadeFaturasi)
 
+[![Image](../TemelHareketler/satisiadefaturasi.png)](TemelHareketler)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "satış iade" şeklinde aratarak ulaşım sağlayabilirsiniz.

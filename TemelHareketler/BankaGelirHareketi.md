@@ -7,6 +7,8 @@ SayfaTipi: BankaHareketleri
 
 **Erişim Linki :** [erp.aaro.com.tr/BankaBorcDekontu](erp.aaro.com.tr/BankaBorcDekontu)
 
+![Image](../TemelHareketler/bankagelir.png)](TemelHareketler)
+
 ## Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Banka gider' şeklinde aratarak ulaşım sağlayabilirsiniz.

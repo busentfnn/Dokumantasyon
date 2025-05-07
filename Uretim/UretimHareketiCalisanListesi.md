@@ -7,6 +7,8 @@ SayfaTipi: Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/UrAkisOperasyonPersonel/Liste](erp.aaro.com.tr/UrAkisOperasyonPersonel/Liste)
 
+[![Image](../Uretim/uretimpersonel.png)](Uretim)
+
 ## Ulaşım
 
 - Sol menüden *Üretim -> Listeler -> Üretim Hareketi Çalışan Personel* şeklinde ulaşım sağlayabilirsiniz.

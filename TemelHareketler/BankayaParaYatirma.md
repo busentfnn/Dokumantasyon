@@ -7,6 +7,8 @@ SayfaTipi: BankaHareketleri
 
 **Erişim Linki :** [erp.aaro.com.tr/KasaBankayaParaYatirma](erp.aaro.com.tr/KasaBankayaParaYatirma)
 
+![Image](../TemelHareketler/bankayaparayatirma.png)](TemelHareketler)
+
 ## Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Banka gider' şeklinde aratarak ulaşım sağlayabilirsiniz.

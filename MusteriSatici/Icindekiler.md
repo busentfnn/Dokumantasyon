@@ -7,6 +7,8 @@ SayfaTipi: Modul
 
 **Erişim Linki :** [erp.aaro.com.tr/CariModulu](https://erp.aaro.com.tr/CariModulu)
 
+[![Image](../MusteriSatici/musterisatici.png)](musterisatici)
+
 Müşteri / Satıcı Modülü, işletmenizin müşteri ilişkilerini yönetmek, satış ve alış süreçlerini izlemek için kullanabilirsiniz. 
 Bu modül, müşteri bilgilerini saklamak, alış ve satış işlemlerini takip etmek ve müşteri memnuniyetini artırmak için tasarlanmıştır.
 

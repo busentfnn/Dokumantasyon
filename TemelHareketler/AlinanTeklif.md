@@ -7,6 +7,7 @@ SayfaTipi: Teklif
 
 **Erişim Linki :** [erp.aaro.com.tr/FaturaAlinanTeklif](erp.aaro.com.tr/FaturaAlinanTeklif)
 
+![Alınan Teklif](alinan-teklif.png "Alınan Teklif")
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan 'Alınan teklif' şeklinde aratarak ulaşım sağlayabilirsiniz.
@@ -14,6 +15,7 @@ SayfaTipi: Teklif
 - Sol sekmede yer alan modüller kısmından *Satın Alma -> Hareket Oluştur -> Alınan teklif* şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
+
 
 Alınan teklif, bir müşterinin veya işletmenin belirli koşullar altında bir ürünü veya hizmeti satın almak amacıyla başka bir işletmeden aldığı yazılı öneridir. Teklif genellikle ticari bir ilişki içinde bulunan iki taraf arasında yapılır. Teklif genellikle şu unsurları içerir:
 

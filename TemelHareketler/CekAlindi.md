@@ -8,6 +8,7 @@ SayfaTipi: CekAlindi
 **Erişim Linki :** [erp.aaro.com.tr/CekSenetAlindi?TipID=CekAlindi](https://erp.aaro.com.tr/CekSenetAlindi?TipID=CekAlindi)
 
 ### Ulaşım
+![Çek İşlemler](cek-islemler.png "Çek İşlemler")
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altındaki arama motorundan "çek alındı" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *ÇekSenet -> Hareket Oluştur -> Çek -> Çek Alındı* şeklinde ulaşım sağlayabilirsiniz. 

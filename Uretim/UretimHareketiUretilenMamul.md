@@ -7,6 +7,8 @@ SayfaTipi: Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/UrAkisOperasyonMamul/Liste](erp.aaro.com.tr/UrAkisOperasyonMamul/Liste)
 
+[![Image](../Uretim/uretimmamul.png)](Uretim)
+
 ## Ulaşım
 
 - Sol menüden *Üretim -> Listeler -> Üretim Hareketi Kullanılan Mamul* şeklinde ulaşım sağlayabilirsiniz.

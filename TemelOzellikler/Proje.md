@@ -7,6 +7,8 @@ SayfaTipi: Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/Proje/Liste](erp.aaro.com.tr/Proje/Liste)
 
+[![Image](../TemelOzellikler/projelistesi.png)](TemelOzellikler)
+
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "proje" aratarak ulaşım sağlayabilirsiniz.

@@ -5,6 +5,8 @@ SayfaTipi: Hareket Olustur
 
 ## Müşteri/Satıcı Hareketleri
 
+[![Image](../MusteriSatici/hareket.png)](hareket)
+
 ### Genel
 
 - [Satış Faturası](../TemelHareketler/SatisFaturasi.md)

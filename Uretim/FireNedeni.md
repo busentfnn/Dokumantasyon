@@ -7,6 +7,8 @@ SayfaTipi: UrFireNeden/Liste
 
 **Erişim Linki :** [erp.aaro.com.tr/UrFireNeden/Liste](erp.aaro.com.tr/UrFireNeden/Liste)
 
+[![Image](../Uretim/fireneden.png)](Uretim)
+
 ### Ulaşım 
 
 - Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "fire" şeklinde aratarak ulaşım sağlayabilirsiniz.

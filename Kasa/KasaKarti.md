@@ -7,6 +7,8 @@ SayfaTipi: Kart
 
 **Erişim Linki :** [erp.aaro.com.tr/Kasa/Kalem](erp.aaro.com.tr/Kasa/Kalem)
 
+[![Image](../Kasa/kasakarti.png)](kasakarti)
+
 ### Ulaşım
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Kasa Kartı" şeklinde aratarak ulaşım sağlayabilirsiniz.
