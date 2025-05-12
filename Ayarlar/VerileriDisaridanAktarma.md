@@ -3,7 +3,12 @@
 
 [![Image](../Ayarlar/aktarmaislemleri.png)](aktarmaislemleri)
 
-AARO Muhasebe ve Üretim programını kullanmaya başlarken kullanılacak ilk modül **Ayarlar** modülüdür. Kullanıma ilk olarak verileri aktarmak ile başlanmaktadır. Burada amaç verileri tek tek kartlarla sisteme eklemek yerine verileri Excel şablonu ile toplu bir şekilde sisteme aktarmaktır. Verileri AARO’ya aktarmak için sol tarafta bulunan paneldeki **‘Modüller’** sekmesinden **‘Ayarlar’** modülü seçilir. Ayarlar modülü seçildikten sonra ‘Modül Sayfası’, ‘Kartlar’ bölümleri açılmaktadır. Bu bölümlerin içinden **‘Modül Sayfası’** seçilir. Çıkan ekranda **‘Ayarlar’** başlığından **‘Dışarıdan Aktarma’** butonu seçilir. 
+AARO Muhasebe ve Üretim programını kullanmaya başlarken ilk olarak kullanılacak modül, Ayarlar modülüdür.
+Kullanıma, sistemde ihtiyaç duyulan verilerin aktarımıyla başlanır. Bu süreçte amaç; verileri tek tek kartlar aracılığıyla girmek yerine, Excel şablonu kullanarak toplu bir şekilde sisteme aktarmaktır.
+
+Verileri AARO’ya aktarmak için, sol tarafta bulunan paneldeki ‘**Modüller**’ sekmesinden ‘**Ayarlar**’ modülü seçilir. Ayarlar modülü açıldığında, ‘**Modül Sayfası**’ ve ‘**Kartlar**’ *olmak üzere iki bölüm görüntülenir. Bu bölümler arasından ‘**Modül Sayfası**’ seçilir.
+
+Açılan ekranda, ‘**Ayarlar**’ başlığı altında yer alan ‘**Dışarıdan Aktarma**’ butonuna tıklanır. 
 
 Modüller Sekmesi -> Ayarlar  -> Modül Sayfası -> Ayarlar başlığı altındaki **Dışarıdan Aktarma** 
 

@@ -3,4 +3,10 @@
 
 [![Image](../Ayarlar/subelistesi.png)](subelistesi)
 
-Solda bulunan paneldeki **‘Modüller’** sekmesinden **‘Ayarlar’** modülü seçilmektedir. Ayarlar modülü seçildikten sonra ‘Modül Sayfası’, ‘Kartlar’ bölümleri açılmaktadır. Bu bölümlerin içinden **‘Modül Sayfası’** seçilir. Çıkan ekranda **‘Genel Kartlar’** başlığından **‘Şube Listesi’** butonu seçilir. Açılan sayfada **‘Yeni Şube Ekle’** butonuna tıklandığında **‘Şube (Yeni)’** sayfası açılmaktadır. Açılan sayfada şubenin **‘Kodu’** ve **‘Adı’** zorunlu olarak girilmektedir. **‘Şirket’** seçimi yapılıp **‘Şube Uzun Adı’** girilmektedir. Şubenin **ilçesi** seçilip **adres** bilgileri manuel olarak yazılmaktadır.
+Solda bulunan paneldeki ‘**Modüller**’ sekmesinden ‘**Ayarlar**’ modülü seçilir. Ayarlar modülü açıldıktan sonra, ‘**Modül Sayfası**’ ve ‘**Kartlar**’ bölümleri görüntülenir. Bu bölümler arasından ‘**Modül Sayfası**’ seçilir.
+
+Açılan ekranda, ‘**Genel Kartlar**’ başlığı altında yer alan ‘**Şube Listesi**’ butonuna tıklanır. Karşınıza gelen sayfada ‘**Yeni Şube Ekle**’ butonuna tıklanarak ‘Şube (Yeni)’ sayfası açılır.
+
+Bu sayfada, şubeye ait ‘**Kodu**’ ve ‘**Adı**’ alanları zorunlu olarak doldurulur. Ardından ‘Şirket’ seçimi yapılır ve ‘**Şube Uzun Adı**’ girilir. Şubenin ilçesi seçildikten sonra, adres bilgileri manuel olarak yazılır.
+
+

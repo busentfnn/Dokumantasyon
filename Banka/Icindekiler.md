@@ -93,11 +93,11 @@ Bu modülden, işletmenizin nakit akışını, hesap hareketlerinizi ve banka il
 	- Muhasebelesme_BankaHesapAlacakMuhKodu (Muhasebeleşme Kartları): Hesap planında hangi ana hesabın altına otomatik olarak hesap açılacağını tanımlar. Banka Hesap Alacak için ön değeri 102'dir.
 	- Muhasebelesme_BankaHesapTahsildekiCekMuhKodu (Muhasebeleşme Kartları): Hesap planında hangi ana hesabın altına otomatik olarak hesap açılacağını tanımlar. Banka Hesap Tahsildeki Çek için ön değeri 101'dir.
 	- Muhasebelesme_BankaHesapTahsildekiSenetMuhKodu (Muhasebeleşme Kartları): Hesap planında hangi ana hesabın altına otomatik olarak hesap açılacağını tanımlar. Banka Hesap Tahsildeki Senet için ön değeri 121'dir.
-	- Muhasebelesme_BankaHesapOtomatikYeniAc (Muhasebeleşme Kartları): Yeni BankaHesap Kartı açılırken otomatik Yeni Muhesebeleşme Kartı mı yapılsın yoksa mevcut Muhesebeleşme Kartlarından mı seçsini belirtir.
+	- Muhasebelesme_BankaHesapOtomatikYeniAc (Muhasebeleşme Kartları): Yeni BankaHesap Kartı  oluşturulurken, otomatik olarak yeni bir Muhasebeleştirme Kartı mı oluşturulacağı yoksa mevcut Muhasebeleştirme Kartlarından birinin mi seçileceği belirtilir.
 	- Muhasebelesme_BankaHesapStandart (Muhasebeleşme Kartları): Yeni Banka Kartı açılırken otomatik hangi Muhesebeleşme Kartı ile eşleştirileceğini belirtir. 'OtomatikYeniAc' parametresi 'Hayır' seçildi ise çalışır.
 
 
-### İlişkili Modüller
+
 
 
 

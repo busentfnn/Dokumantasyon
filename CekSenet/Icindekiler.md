@@ -42,9 +42,6 @@ Bu modül sayesinde çek ve senetlerin izlenmesi, takibi ve işlenmesi kolaylaş
 - [Çek/Senet Hareketleri Listesi](../ÇekSenet/ÇekSenetHareketleriListesi.md)
 - [Hareket Oluştur](../Banka/HareketOlustur.md)
 
-### İşlemler 
-
-...............
 
 ### Raporlar
 

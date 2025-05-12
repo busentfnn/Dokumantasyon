@@ -11,16 +11,17 @@ SayfaTipi: Liste
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "takvim" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Personel -> Modül Sayfası -> Takvimler şeklinde ulaşım sağlayabilirsiniz. 
+Sol sekmede, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motoruna “takvim” yazarak hızlıca erişim sağlayabilirsiniz.
+
+Alternatif olarak, sol menüden sırasıyla Personel > Modül Sayfası > Takvimler adımlarını izleyerek takvim ekranına ulaşabilirsiniz.
 
 ## Tanım 
 
-İşletmenin planlama ve zaman yönetimini optimize etmek için oluşturulan bir araçtır. 
-Takvim, yıllık, aylık, haftalık ve günlük bazda işlemleri takip etmeye olanak tanır. 
-Takvim sayesinde planlamalar için tarih, saat, gibi temel bileşenlerle detaylandırılır. 
-Ayrıca, takvimi diğer modüllerde tanımlama yaparak üretim planlamada, insan kaynakları gibi alanlarla uyumlu çalışır. 
-Belirli zaman aralıklarında geçerli olacak takvim tanımlamaları, değişken plan durumlarını etkili bir şekilde yönetmenize olanak tanır. 
+Takvim, işletmenin planlama ve zaman yönetimini optimize etmek amacıyla oluşturulmuş bir araçtır.
+Yıllık, aylık, haftalık ve günlük bazda işlemlerin takibini mümkün kılar.
+Takvim aracılığıyla yapılan planlamalar; tarih, saat gibi temel bileşenler kullanılarak detaylandırılabilir.
+Ayrıca takvim, diğer modüllerle entegre çalışarak üretim planlama gibi alanlarla uyum içinde kullanılabilir.
+Belirli zaman aralıklarında geçerli olacak şekilde yapılan takvim tanımlamaları, değişken planlama ihtiyaçlarının etkili bir şekilde yönetilmesini sağlar. 
 
 ## Takvim Tanımlama 
 
@@ -44,13 +45,13 @@ Günlerin yanındaki kutucuklardan "Resmi tatil", "Hafta sonu" ve "Normal gün" 
 
 **Baş. Saat:** Mesainin başlayacağı saati ifade eder.
 
-Bilgileri doldurduktan sonra "Kaydet" diyerek takvim kaydınınızı tamamlayabilirsiniz.
+Bilgileri doldurduktan sonra "**Kaydet**"** diyerek takvim kaydınınızı tamamlayabilirsiniz.
 
 ### Takvim Üzerinden Günleri Ayarla
 
 Hafta, ay, yıl ve tarih filtrelemeleri yaparak takvimi açabilirsiniz; yıl seçeneğinden istediğiniz yılı seçebilirsiniz. 
 Çalışma saatlerini dakika bazında yazarak, günler için geçerli olan dakikayı girebilirsiniz. 
-"Resmi Tatil", "Normal" ve "Hafta Sonu" seçeneklerden seçim yaparak, günlerin üzerine tıklandığında günün özelliği tanımlanır.
+"Resmi Tatil", "Normal" ve "Hafta Sonu" seçeneklerinden seçim yaparak, günlerin üzerine tıklandığında günün özelliği tanımlanır.
 Örneğin; Normal günler belirtilmek istendiğinde;
 Normal Gün 540 dk seçeneği seçildikten sonra takvim üzerinden Pazartesi, Salı, Çarşamba, Perşembe, Cuma günlerine tıklayarak normal gün, 540 dk çalışma saati olarak tanımlanır.
 

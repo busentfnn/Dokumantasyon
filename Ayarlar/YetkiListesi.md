@@ -3,4 +3,22 @@
 
 [![Image](../Ayarlar/yetkilistesi.png)](yetkilistesi)
 
-Solda bulunan paneldeki **‘Modüller’** sekmesinden **‘Ayarlar’** modülü seçilmektedir. Ayarlar modülü seçildikten sonra ‘Modül Sayfası’, ‘Kartlar’ bölümleri açılmaktadır. Bu bölümlerin içinden **‘Modül Sayfası’** seçilir. Çıkan ekranda **‘Kullanıcılar ve Yetkiler’** başlığından **‘Yetki Listesi’** butonu seçilir. Açılan sayfada **‘Yeni Yetki Ekle’** butonuna tıklandığında **‘Yetki’** sayfası açılmaktadır. Pakete şirket ve şube tanımlıysa önce o seçilmektedir. Daha sonra **kullanıcı** mı **kullanıcı grup** için mi olduğu seçilmektedir. Bu aşamada kullanıcı seçilirse yetkiler sadece kullanıcıya, kullanıcı grup seçilirse gruptaki herkese seçilecek yetkiler tanımlanmaktadır. Yetkinin kim için olduğu seçildikten sonra **kullanıcı** ise hangi kullanıcının olacağı, **kullanıcı grubu** ise hangi kullanıcı grubunun olacağı seçilmektedir. **ProgramID** seçilir ve **okuma, ekleme, silme, düzeltme, indirme** yetkilerinden hangilerinin yapılabilmesi isteniyorsa o kutucuklar işaretlenmektedir. Bu şekilde hangi programlara kime veya kimlere yetki tanınacağı tek tek tanımlanabilmektedir. Yetki Listesi sayfasından filtre bölümünden **şirket-şube** ve **grup** seçilerek grubun hangi programda **okuma, ekleme, silme, düzeltme, indirme** yetkilerinden hangilerini yapabileceği toplu olarak düzenlenebilmektedir. Yetki Listesi sayfasından filtre bölümünden **şirket-şube** ve **kullanıcı** seçilerek kullanıcının hangi programda **okuma, ekleme, silme, düzeltme, indirme** yetkilerinden hangilerini yapabileceği toplu olarak düzenlenebilmektedir.
+Solda bulunan paneldeki “**Modüller**”** sekmesinden “**Ayarlar**” modülü seçilir. Ayarlar modülü açıldığında, “**Modül Sayfası**” ve “**Kartlar**” bölümleri görüntülenir. Bu bölümlerden “**Modül Sayfası**” seçilir.
+
+Açılan ekranda, “**Kullanıcılar ve Yetkiler**” başlığı altındaki “**Yetki Listesi**” butonuna tıklanır. Ardından açılan sayfada “**Yeni Yetki Ekle**” butonuna tıklanarak “**Yetki**” sayfası açılır.
+
+Eğer lisansa şirket ve şube tanımlıysa, öncelikle bunlar seçilir. Daha sonra yetkinin kullanıcı mı yoksa kullanıcı grubu için mi tanımlanacağı belirlenir.
+
+Kullanıcı seçilirse, tanımlanacak yetkiler sadece o kullanıcıya ait olur.
+
+Kullanıcı grubu seçilirse, yetkiler gruptaki tüm kullanıcılara uygulanır.
+
+Yetkinin kime ait olacağı belirlendikten sonra ilgili kullanıcı ya da kullanıcı grubu seçilir. Ardından ProgramID belirlenir ve ilgili program için verilmesi istenen okuma, ekleme, silme, düzeltme, indirme yetkileri işaretlenir.
+
+Bu şekilde, her bir programa kimin hangi yetkilere sahip olacağı tek tek tanımlanabilir.
+
+Ayrıca, Yetki Listesi sayfasındaki filtre bölümünden:
+
+Şirket-şube ve kullanıcı grubu seçilerek, grubun hangi programda hangi yetkilere sahip olacağı toplu olarak düzenlenebilir.
+
+Şirket-şube ve kullanıcı seçilerek, ilgili kullanıcının programlardaki yetkileri de toplu şekilde düzenlenebilir.
