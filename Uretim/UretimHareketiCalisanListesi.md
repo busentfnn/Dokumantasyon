@@ -11,7 +11,7 @@ SayfaTipi: Liste
 
 ## Ulaşım
 
-- Sol menüden *Üretim -> Listeler -> Üretim Hareketi Çalışan Personel* şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden *Üretim -> Listeler -> Üretim Hareketi Çalışan Personel* şeklinde ulaşabilirsiniz.
 
 ## Tanım
 

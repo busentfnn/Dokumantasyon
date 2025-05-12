@@ -11,7 +11,7 @@ SayfaTipi: Liste
 
 ## Ulaşım
 
-- Sol menüden *Üretim -> Listeler -> Üretim Hareketi Kullanılan Ham madde* şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden *Üretim -> Listeler -> Üretim Hareketi Kullanılan Ham madde* şeklinde ulaşabilirsiniz.
 
 ## Tanım
 
@@ -50,6 +50,3 @@ Satırlara tıklayıp üretilen mamul detaylarını görüntüleyerek, iş emrin
 
 - [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - [Grid Sütunları Ayarla](../TemelOzellikler/GridSutunAyarlari.md)
-
-
-

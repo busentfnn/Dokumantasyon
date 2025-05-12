@@ -1,15 +1,17 @@
 
 ## Muhasebeleşme Tanımları 
 ![Muhasebeleşme](muhasebelesme-tanimlari.png "Muhasebeleşme")
-Muhasebeleşme, işletme içinde gerçekleşen finansal faaliyetlerin doğru bir şekilde kaydedilmesi, sınıflandırılması ve raporlanması sürecidir. 
-Bu işlemler, gelirler, giderler, alacaklar ve borçlar gibi finansal unsurların düzenli bir şekilde takip edilmesi ve yasal mevzuata uygun bir şekilde oluşturulmasını sağlar. 
-ERP sistemlerinin muhasebeleşme modülü, Bu büyümeyi otomatikleştirerek finansal operasyonlarını daha verimli ve hatasız bir şekilde yürütülmesine yardımcı olur.
 
-**Stok kartlarında** muhabeleşme tanımları, stok hareketlerinin muhasebe kayıtlarına nasıl yansıyacağını; mal alımı, satışı, hammadde, yarı mamül, mamül, iade veya iskonto gibi tamamlama muhasebe hesaplarına doğru bir şekilde işlenmesini sağlar.
-Sistemleri her bir stok hareketi otomatik olarak ilgili muhasebe hesabına yönlendirilir, farklı olan muhasebeleşme kodları manuel olarak değiştirilebilir.
+Muhasebeleşme, işletme içinde gerçekleşen finansal faaliyetlerin doğru bir şekilde kaydedilmesi, sınıflandırılması ve raporlanması sürecidir. Bu süreç, gelirler, giderler, alacaklar ve borçlar gibi finansal unsurların düzenli bir şekilde takip edilmesini sağlar. Aynı zamanda, yasal mevzuata uygun bir şekilde oluşturulmasına da yardımcı olur.
+
+AARO ERP sisteminin muhasebeleşme modülü, bu süreci otomatikleştirerek finansal operasyonların daha verimli ve hatasız bir şekilde yürütülmesine katkı sağlar.
+
+**Stok kartlarında** muhasebeleşme tanımları, stok hareketlerinin muhasebe kayıtlarına nasıl yansıyacağını belirler. Bu, mal alımı, satışı, ham madde, yarı mamul, mamul, iade veya iskonto gibi işlemlerin doğru muhasebe hesaplarına işlenmesini sağlar. 
+
+Sistemde her bir stok hareketi, otomatik olarak ilgili muhasebe hesabına yönlendirilir. Ancak, farklı muhasebeleşme kodları gerektiğinde manuel olarak değiştirilebilir.
 **Bu kodlar üzerinde hesap plan atamaları yaparken mutlaka Mali Müşavirinizden destek alınız.** 
 
-**Demirbaş kartlarında** muhasebeleşme tanımları, sahip olduğu demirbaşların finansal muhasebe kayıtlarına doğru bir şekilde çalışmasını sağlayan kayıtların belirlenmesidir.
+**Demirbaş kartlarında** muhasebeleşme tanımları, sahip olunan demirbaşların finansal muhasebe kayıtlarına doğru bir şekilde yansıyabilmesi için gerekli kayıtların belirlenmesidir. Bu tanımlar, demirbaşların alımı, satımı, amortismanı ve diğer finansal işlemlerinin muhasebe sistemine doğru bir şekilde aktarılmasını sağlar.
 
 **Müşteri/Satıcı cari kartlarında** cariye ait muhabeleşme kodları alış veya satış hareketleri için geçerli olacak finansal muhasebe kayıtlarını ifade eder.
 Yeni Müşteri/Satıcı kartı açarken sistem bize carinin müşteri ya da satıcı durumuna göre otomatik hesap kodlarına atama yapar;
@@ -23,7 +25,7 @@ Banka hesap hareketlerinin ilgili muhasebe hesaplarına otomatik olarak kaydolma
 Banka borç, alacak, tahsilde çek ve tahsildeki senet hesabı gibi otomatik hesap kodlarına atama yapar.
 
 
-**Mevcuttan Seç** Mevcuttan seç diyerek Muhabeleşme kartını seçerek onun muhasebeleşme kartlarını sisteme otomatik tanımlayabiliriz.
+ **Mevcuttan Seç** diyerek, mevcut muhasebeleşme kartını seçebilir ve ilgili muhasebeleşme kartlarının sistemde otomatik olarak tanımlanmasını sağlayabilirsiniz.
 
 **Yeni Aç** Yeni aç diyerek yeni muhabeleşme tanımları oluşturabiliriz.
 

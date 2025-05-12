@@ -1,6 +1,6 @@
 ---
 SayfaID: Sozlesme/Liste
-SayfaTipi: Lıste
+SayfaTipi: Liste
 ---
 
 # Sözleşme

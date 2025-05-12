@@ -12,7 +12,7 @@ SayfaTipi: Liste
 Satış sipariş listesi, işletmenin müşteriden aldığı tüm siparişleri içeren. Sipariş numaraları, tarihleri, müşteri bilgileri, sipariş edilen ürün veya hizmetler ve miktarları gibi bilgileri içeren bir dökümdür. 
 Bu liste, siparişlerin takibi ve yönetimi için kullanılır.
 
-Bu listede müşteri siparişlerimizi görüntüleyebiliriz.
+Bu listede müşteri siparişlerinizi görüntüleyebilirsiniz.
 
 
 ## Yeni Hareket Ekle

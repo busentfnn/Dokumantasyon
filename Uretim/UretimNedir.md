@@ -10,8 +10,8 @@ SayfaTipi: Modül
 
 ## Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Üretim" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Üretim -> Üretim Modülü şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Üretim" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden Üretim -> Üretim Modülü şeklinde ulaşabilirsiniz. 
 
 ## Tanım 
 
@@ -89,5 +89,3 @@ Bu şekilde eksik olan ham madde, yarı mamul ve mamullerin tedariğini kolayca 
 ## Birim Maliyeti
 
 Makine masraflarının hesapları ve işçilik hesaplarının toplamıdır. Detaylı bilgi için tıklayınız. [Çalışma Mal. / Saat](../Uretim/BirimMaliyeti.md)
-
-

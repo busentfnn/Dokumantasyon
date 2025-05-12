@@ -9,7 +9,7 @@ SayfaTipi: Modul
 
 [![Image](../MusteriSatici/musterisatici.png)](musterisatici)
 
-Müşteri / Satıcı Modülü, işletmenizin müşteri ilişkilerini yönetmek, satış ve alış süreçlerini izlemek için kullanabilirsiniz. 
+Müşteri / Satıcı Modülü, işletmenizin müşteri ilişkilerini yönetmek, satış ve alış süreçlerini izlemek için kullanabileceğiniz bir modüldür. 
 Bu modül, müşteri bilgilerini saklamak, alış ve satış işlemlerini takip etmek ve müşteri memnuniyetini artırmak için tasarlanmıştır.
 
 - Müşterilerinizle ilgili temel bilgilerin saklanmasını sağlar. Bu; müşteri adı, iletişim bilgileri, adres bilgileri gibi bilgiler içerir.

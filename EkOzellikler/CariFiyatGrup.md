@@ -12,9 +12,9 @@ SayfaTipi: CariGruplari
 ## Ulaşım 
 
 - Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "fiyat" aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden Satın Alma -> Kartlar -> Fiyat Listeleri(Alış) -> Bir Fiyat Listesi(büyüteçe ya da çift tıklayarak) -> Cari Grupları Listesi şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Satış Pazarlama -> Kartlar -> Fiyat Listeleri(Satış) -> Bir Fiyat Listesi(büyüteçe ya da çift tıklayarak) -> Cari Grupları Listesi şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden Müşteri&Satıcı -> Kartlar -> Müşteri/Satıcı Kartı Listesi -> Herhangi bir Cari Kartı (büyüteçe ya da çift tıklayarak) -> Gelişmiş -> Fyat Grup şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden Satın Alma -> Kartlar -> Fiyat Listeleri(Alış) -> Bir Fiyat Listesi(büyütece ya da çift tıklayarak) -> Cari Grupları Listesi şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden Satış Pazarlama -> Kartlar -> Fiyat Listeleri(Satış) -> Bir Fiyat Listesi(büyütece ya da çift tıklayarak) -> Cari Grupları Listesi şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden Müşteri&Satıcı -> Kartlar -> Müşteri/Satıcı Kartı Listesi -> Herhangi bir Cari Kartı (büyütece ya da çift tıklayarak) -> Gelişmiş -> Fiyat Grup şeklinde ulaşım sağlayabilirsiniz.
 
 ## Tanım
 
@@ -32,13 +32,13 @@ Bu durum, rekabetçi fiyatlar sunarak müşteri memnuniyetini artırır ve satı
 ## Fiyat Listesi Cari Grupları 
 
 - Fiyat Listeleri kısmında cariler için geçerli olacak fiyat listelerini ve iskonto oranları görüntülenir.
-- Cari Listesi kısmında ise fiyat listelerinde gözüken listeler ve iskonto oranlarının geçerli olacağı cariler görüntülenir. 
+- Cari Listesi kısmında ise fiyat listelerinde görünen listeler ve iskonto oranlarının geçerli olacağı cariler görüntülenir. 
 
 ### Yeni Fiyat Listesi Cari Grubu 
 
-**Kodu:** Fiyat listesi cari grubun kodunu ifade eder. Bir kod oluşturabilir ya da sistemin verdiği otomatik kodu kullanabilirsiniz.
+**Kodu:** Fiyat listesi cari grubunun kodunu ifade eder. Bir kod oluşturabilir ya da sistemin verdiği otomatik kodu kullanabilirsiniz.
 
-**Adı:** Fiyat listesi cari grubun adını ifade eder. 
+**Adı:** Fiyat listesi cari grubunun adını ifade eder. 
 
 **Durum:** Fiyat listesi cari grubunun aktif veya pasif durumunu ifade eder. Pasif hale getirmek istediğinizde, buradan "Durum: Pasif" seçeneğini kullanarak işlemi gerçekleştirebilirsiniz.
 
@@ -47,22 +47,6 @@ Bu durum, rekabetçi fiyatlar sunarak müşteri memnuniyetini artırır ve satı
 
 **Durum:** Fiyat listesinin aktif veya pasif durumunu ifade eder. Pasif hale getirmek istediğinizde, buradan "Durum: Pasif" seçeneğini kullanarak işlemi gerçekleştirebilirsiniz.
 
-**Fiyat Listesi Cari Grubu:** Üzerinde çalıştığımız fiyat cari grubu otomatik seçili gelir.
+**Fiyat Listesi Cari Grubu:** Üzerinde çalıştığımız fiyat listesi cari grubu otomatik seçili gelir.
 
-**Liste:** Fiyat cari grubunda kullanacağım fiyat listesini ifade eder, fiyat listesi seçimi yapmamız gerekmektedir.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Liste:** Fiyat listesi cari grubunda kullanacağımız fiyat listesini ifade eder, fiyat listesi seçimi yapmamız gerekmektedir.

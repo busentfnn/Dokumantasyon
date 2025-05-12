@@ -35,7 +35,7 @@ Bu sayede, müşteri memnuniyeti artırılırken, satış süreçleri daha şeff
 
 ### Genel 
 
-**Kodu:** Plasiyerin kodunu ifade eder. Sistem otomatik kod verir kullanabilir ya da manuel kod tanımlanabilir.
+**Kodu:** Plasiyerin kodunu ifade eder. Sistemin otomatik kodu kullanılabilir ya da manuel kod tanımlanabilir.
 
 **Adı:** Plasiyer adını ifade eder.
 
@@ -47,4 +47,4 @@ Bu sayede, müşteri memnuniyeti artırılırken, satış süreçleri daha şeff
 
 **Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 
-**Durum:** Projenin aktiflik ya da pasiflik durumu ifade eder.
+**Durum:** Projenin aktiflik ya da pasiflik durumunu ifade eder.

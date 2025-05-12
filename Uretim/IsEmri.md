@@ -11,8 +11,8 @@ SayfaTipi: UrIsEmri/Liste
 
 ## Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "İş emri" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Listeler -> İş Emri Listesi* şeklinde ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "İş emri" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Listeler -> İş Emri Listesi* şeklinde ulaşabilirsiniz. 
 - Sol menüden *Üretim -> Listeler -> İş Emri Listesi -> Yeni İş Emri* şeklinde yeni iş emri oluşturabilirsiniz. 
 
 ## Tanım
@@ -47,4 +47,3 @@ Reçete Hızlı düzenleme kullanım detayları için tıklayınız. [Reçete H�
 İş emri planlama ve düzenleme, üretim sürecinde belirli bir işin nasıl ve ne zaman yapılacağını belirlemek ve gerektiğinde bu planı güncellemektir. 
 İş emri, üretim sürecinde belirli bir ürün veya parça için gereken işlemleri tanımlar ve bu işlemlerin zamanlamasını içerir. 
 İş Emri Planlama kullanım detayları için tıklayınız.[İş Emri Planla](../Uretim/IsEmriPlanla.md)
-

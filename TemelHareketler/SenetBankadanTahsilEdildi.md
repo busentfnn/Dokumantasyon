@@ -12,9 +12,9 @@ SayfaTipi: SenetBankadanTahsilEdildi
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Senet" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet Bankadan Tahsil Edildi* üzerinden ulaşım sağlayabilirsiniz. 
-- Sol menüden *Banka -> Hareket Oluştur -> Senet Bankadan Tahsil Edildi* üzerinden ulaşım sağlayabilirsiniz. 
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Senet" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *ÇekSenet -> Hareket Oluştur -> Senet Bankadan Tahsil Edildi* üzerinden ulaşabilirsiniz. 
+- Sol menüden *Banka -> Hareket Oluştur -> Senet Bankadan Tahsil Edildi* üzerinden ulaşabilirsiniz. 
 
 ### Tanım 
 

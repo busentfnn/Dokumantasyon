@@ -11,8 +11,8 @@ SayfaTipi: KartListe
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "terminal makine" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Kartlar -> Üretim Terminali Makine Eşleştirme Listesi* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "terminal makine" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Kartlar -> Üretim Terminali Makine Eşleştirme Listesi* şeklinde ulaşabilirsiniz.
 
 ### Tanım
 

@@ -11,9 +11,9 @@ SayfaTipi: KartListe
 
 ### Ulaşım 
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Kartlar -> İş Emri Reçeteleri Listesi* şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Modül Sayfası -> Liste -> Taslak Reçete Listesi* şeklinde ulaşım sağlayabilirsiniz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Kartlar -> İş Emri Reçeteleri Listesi* şeklinde ulaşabilirsiniz.
+- Sol menüden *Üretim -> Modül Sayfası -> Liste -> Taslak Reçete Listesi* şeklinde ulaşabilirsiniz.
 
 ### Tanım 
 

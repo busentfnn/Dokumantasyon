@@ -11,7 +11,7 @@ SayfaTipi: Liste
 
 ## Ulaşım
 
-- Sol menüden *Üretim -> Listeler -> Üretim Hareketi Kullanılan Mamul* şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden *Üretim -> Listeler -> Üretim Hareketi Kullanılan Mamul* şeklinde ulaşabilirsiniz.
 
 ## Tanım
 

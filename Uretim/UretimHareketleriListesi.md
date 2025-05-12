@@ -11,8 +11,8 @@ SayfaTipi: Liste
 
 ### Ulaşım
 
-- Sol menüden *Üretim -> Listeler -> Üretim Hareketleri Listesi* şeklinde ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Modül Sayfası -> Liste -> Üretim Hareketleri Listesi* şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden *Üretim -> Listeler -> Üretim Hareketleri Listesi* şeklinde ulaşabilirsiniz.
+- Sol menüden *Üretim -> Modül Sayfası -> Liste -> Üretim Hareketleri Listesi* şeklinde ulaşabilirsiniz.
 
 ### Tanım
 

@@ -11,7 +11,7 @@ SayfaTipi: UretimPlaniToplam
 
 ### Ulaşım
 
-- Sol menüden Üretim -> Listeler -> Üretim Planı Özet şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden Üretim -> Listeler -> Üretim Planı Özet şeklinde ulaşabilirsiniz.
 
 ### Tanım
 

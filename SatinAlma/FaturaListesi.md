@@ -15,7 +15,7 @@ Burada alış faturalarımızı görüntüleyebilir, filtreleme yapabilir, harek
 - [Alış İade Faturası](../TemelHareketler/AlisIadeFaturasi.md)
 - [Alınan Teklif Hareketleri](../TemelHareketler/AlinanTeklifHareketleri.md)
 - [Verilen Sipariş Hareketleri](../TemelHareketler/VerilenSiparisHareketleri.md)
-- [Satın Alma Talep Hareketleri](../TemelHareketler/SatınAlmaTalepHareketleri.md)
+- [Satın Alma Talep Hareketleri](../TemelHareketler/SatinAlmaTalepHareketleri.md)
 - [Devir](../TemelHareketler/Devir.md)
 - [Karma Transfer Hareketi](../TemelHareketler/KarmaTransferHareketi.md)
 

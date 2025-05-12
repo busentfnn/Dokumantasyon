@@ -42,16 +42,14 @@ SayfaTipi: Hareket Olustur
 - [Senet Ciro Edildi/Verildi](../TemelHareketler/CekCiroEdildi_Verildi.md)
 - [Senet Satıcıdan İade Alındı](../TemelHareketler/CekBankadanIadeAlindi.md)
 - [Senet Cariye İade Edildi](../TemelHareketler/SenetCariyeIadeEdildi.md)
-- [Senet İcraya Konuldu](../TemelHareketler/
-senedicrayaKonuldu.md)
+- [Senet İcraya Konuldu](../TemelHareketler/SenetIcrayaKonuldu.md)
 
 ### Satış ve Pazarlama
 
 - [Senet Faturası](../TemelHareketler/SenetFaturasi.md)
 - [Satış İade Faturası](../TemelHareketler/SatisIadeFaturasi.md)
 - [Satış İrsaliyesi](../TemelHareketler/SatisIrsaliyesi.md)
-- [Satış İade İrsaliyesi](../TemelHareketler/
-senediadeEdildi.md)
+- [Satış İade İrsaliyesi](../TemelHareketler/SatisIadeIrsaliyesi.md)
 
 #### Alış İşlemleri
 

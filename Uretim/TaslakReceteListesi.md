@@ -11,9 +11,9 @@ SayfaTipi: Kart
 
 ### Ulaşım
 
-- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" şeklinde aratarak ulaşım sağlayabilirsiniz.
-- Sol menüden *Üretim -> Kartlar -> Taslak Reçete Listesi* şeklinde ulaşım sağlayabilirsiniz. 
-- Sol menüden *Üretim -> Modül Sayfası -> Liste -> Taslak Reçete Listesi* şeklinde ulaşım sağlayabiliriz.
+- Sol sekmede Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "reçete" şeklinde aratarak ulaşabilirsiniz.
+- Sol menüden *Üretim -> Kartlar -> Taslak Reçete Listesi* şeklinde ulaşabilirsiniz. 
+- Sol menüden *Üretim -> Modül Sayfası -> Liste -> Taslak Reçete Listesi* şeklinde ulaşabilirsiniz.
 
 ### Tanım
 
@@ -39,4 +39,3 @@ Yeni reçete taslağımızı oluşturarak üretim planımıza başlayabiliriz.
 Reçetemizi oluşturduktan sonra iş emri vererek üretim aşamamıza başlayabiliriz.
 
 Reçete taslağı ekleme detaylarına linkten erişim sağlayabilirsiniz. [Yeni Reçete Taslağı Ekle](../Uretim/YeniReceteTaslagiEkle.md)
-

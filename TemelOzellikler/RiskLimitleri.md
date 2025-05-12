@@ -28,7 +28,7 @@ Burada cari ile risk limitleri grafiği görüntülenir;
 		Tıklayarak açılan sayfada risk limitleri detayları görüntülenir. Kullanılabilir limit, aşan miktar, mevcutta tanımlı risk limitini görüntülenir.
 	- **Yeni Risk Ekle:** Risk tanımlama sayfası görüntülenir;
 		- Başlangıç Tarihi - Bitiş Tarihi: Risk limiti için geçerli tarih aralığını belirtir.
-		- Cari Hesap: Risk Limitleri  açık hesap ?
+		- Cari Hesap: Risk Limitleri  açık hesap 
 
 
 		- Kendi Senedi: Kendi senedi ile ilgili risk limitleri, kendi senetleri üzerindeki riskleri kontrol etmek ve yönetmek amacıyla belirlenir.  
